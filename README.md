@@ -6,14 +6,6 @@
 
 Blood Guard is an AI-powered health monitoring application designed to empower cardiovascular patients. Through seamless integration with wearable technology, Blood Guard tracks essential health metrics, providing real-time, data-informed insights to support users on their journey to better health and recovery.
 
-## Folder Structure
-
-- **images**: Contains screenshots and icons used in the app’s documentation.
-- **myapplication**: Contains the main source code for the app.
-- **res**: Contains additional resources for the app, like layouts, strings, and drawable files.
-
-For more details on each folder, see the README files within each directory.
-
 ## Mission Statement
 
 Blood Guard aims to empower cardiovascular patients by providing continuous, data-driven insights. Our app promotes proactive health management through intelligent data analysis, visualization, and seamless user experience.
@@ -28,6 +20,14 @@ Cardiovascular diseases are a leading cause of death globally, with 17.9 million
 - **AI-Powered Insights**: Our machine learning model analyzes user data, delivering actionable insights into health trends and recovery progress.
 - **User-Friendly Visualization**: Real-time graphs and a color-coded calendar offer easy-to-understand progress reports.
 - **Direct Communication with Healthcare Providers**: Facilitate direct communication with medical professionals through the app for personalized guidance.
+
+## Folder Structure
+
+- **images**: Contains screenshots and icons used in the app’s documentation.
+- **myapplication**: Contains the main source code for the app.
+- **res**: Contains additional resources for the app, like layouts, strings, and drawable files.
+
+For more details on each folder, see the README files within each directory.
 
 ## Screenshots
 
