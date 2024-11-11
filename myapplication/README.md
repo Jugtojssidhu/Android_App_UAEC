@@ -9,6 +9,6 @@ This folder contains the main code for the Blood Guard app.
 
 ### UI Subfolder
 The `ui` folder contains different fragments and view models for the main sections of the app:
-- **gallery**: Contains files for the gallery feature.
+- **gallery**: Contains files for the insights feature.
 - **home**: Contains files for the home/dashboard section.
-- **slideshow**: Contains files for a slideshow or information display feature.
+- **slideshow**: Contains files for a profile feature.
