@@ -29,6 +29,12 @@ Cardiovascular diseases are a leading cause of death globally, with 17.9 million
 
 For more details on each folder, see the README files within each directory.
 
+## How Blood Guard Works
+
+1. **Data Collection and Model Training**: We use patient data, cleaned and structured with Python, to train a machine learning model that identifies health trends.
+2. **Integration and Deployment**: The model is deployed on a Kotlin-based mobile app connected to a wearable device, enabling real-time analysis and insights.
+3. **Continuous Monitoring**: The wearable device tracks daily metrics, updating the app with visual reports and adapting the model to improve predictive accuracy.
+
 ## Screenshots
 
 ### App Logo
@@ -52,9 +58,3 @@ User profile displays medical conditions, medications, allergies, and recent hea
 ### Sidebar Navigation
 Quick access to Home, Insights, and Profile.
 ![Sidebar](images/BloodGuard_sidebar.png)
-
-## How Blood Guard Works
-
-1. **Data Collection and Model Training**: We use patient data, cleaned and structured with Python, to train a machine learning model that identifies health trends.
-2. **Integration and Deployment**: The model is deployed on a Kotlin-based mobile app connected to a wearable device, enabling real-time analysis and insights.
-3. **Continuous Monitoring**: The wearable device tracks daily metrics, updating the app with visual reports and adapting the model to improve predictive accuracy.
