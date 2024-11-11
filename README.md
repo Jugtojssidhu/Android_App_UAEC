@@ -1,6 +1,6 @@
 # Blood Guard
 
-![Blood Guard Logo](path/to/BloodGuard_logo.png)
+![Blood Guard Logo](images/BloodGuard_logo.png)
 
 [![Website](https://img.shields.io/badge/Website-Blood%20Guard-blue)](https://thisisbloodguard.github.io/)
 
@@ -24,26 +24,26 @@ Cardiovascular diseases are a leading cause of death globally, with 17.9 million
 ## Screenshots
 
 ### App Logo
-![App Logo](path/to/app_logo.png)
+![App Logo](images/app_logo.png)
 
 ### Login Screen
-![Login Screen](path/to/BloodGuard_login.png)
+![Login Screen](images/BloodGuard_login.png)
 
 ### Main Dashboard
 The dashboard provides an overview of recent health metrics and upcoming appointments.
-![Main Dashboard](path/to/BloodGuard_main.png)
+![Main Dashboard](images/BloodGuard_main.png)
 
 ### Insights
 Real-time graphs track blood pressure and heart rate trends.
-![Insights](path/to/BloodGuard_insights.png)
+![Insights](images/BloodGuard_insights.png)
 
 ### Profile
 User profile displays medical conditions, medications, allergies, and recent health metrics.
-![Profile](path/to/BloodGuard_profile.png)
+![Profile](images/BloodGuard_profile.png)
 
 ### Sidebar Navigation
 Quick access to Home, Insights, and Profile.
-![Sidebar](path/to/BloodGuard_sidebar.png)
+![Sidebar](images/BloodGuard_sidebar.png)
 
 ## How Blood Guard Works
 
